@@ -1,0 +1,1 @@
+Git és un sistema de control de versions ideal per Linux Torvalds
